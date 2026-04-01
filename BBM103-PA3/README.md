@@ -1,6 +1,6 @@
 # 🗄️ In-Memory Database System
 
-[cite_start]A Python-based simulation of a **Relational Database Management System (RDBMS)** that manages data using primitive Python structures[cite: 241, 246].
+A Python-based simulation of a **Relational Database Management System (RDBMS)** that manages data using primitive Python structures.
 
 ## ✨ Key Features
 * [cite_start]**Core Operations:** Supports `CREATE_TABLE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`, and `COUNT`[cite: 241, 244].
