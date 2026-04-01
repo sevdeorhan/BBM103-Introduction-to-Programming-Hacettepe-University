@@ -1,6 +1,6 @@
 # 📊 Text Analyzer
 
-A Python-based tool developed for **Hacettepe University BBM103** to perform basic Natural Language Processing (NLP) and statistical analysis on text files.
+A Python-based tool developed for **Hacettepe University BBM103** to perform basic Natural Language Processing and statistical analysis on text files.
 
 ## ✨ Key Features
 * **Tokenization:** Extracts words while handling punctuations correctly.
